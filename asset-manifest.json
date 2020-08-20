@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Luke-APIWalker/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Luke-APIWalker/static/js/main.d656ee64.chunk.js",
+    "main.js.map": "/Luke-APIWalker/static/js/main.d656ee64.chunk.js.map",
+    "runtime-main.js": "/Luke-APIWalker/static/js/runtime-main.2ec6bb61.js",
+    "runtime-main.js.map": "/Luke-APIWalker/static/js/runtime-main.2ec6bb61.js.map",
+    "static/js/2.218df936.chunk.js": "/Luke-APIWalker/static/js/2.218df936.chunk.js",
+    "static/js/2.218df936.chunk.js.map": "/Luke-APIWalker/static/js/2.218df936.chunk.js.map",
+    "index.html": "/Luke-APIWalker/index.html",
+    "precache-manifest.3b2cfe0d330bbb5169357618d0b68c95.js": "/Luke-APIWalker/precache-manifest.3b2cfe0d330bbb5169357618d0b68c95.js",
+    "service-worker.js": "/Luke-APIWalker/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Luke-APIWalker/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.218df936.chunk.js.LICENSE.txt": "/Luke-APIWalker/static/js/2.218df936.chunk.js.LICENSE.txt",
+    "static/media/ObiWan.webp": "/Luke-APIWalker/static/media/ObiWan.05f6d1b6.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ec6bb61.js",
+    "static/js/2.218df936.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d656ee64.chunk.js"
+  ]
+}
